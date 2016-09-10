@@ -1,0 +1,3 @@
+change file storage: <baseURL>/ckeditor/userfiles/</baseURL>
+change web: 
+CKFinder.setupCKEditor( editor ,'/ckeditor/ckfinder') ;
