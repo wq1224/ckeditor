@@ -1,0 +1,2 @@
+Summary for /www/javadecompilers/app/public/data/13.09.16/720d0a53f2eb39d35554c87d51149b56/CKFinderPlugin-FileEditor-2.6.2.jar
+Decompiled with CFR 0_115

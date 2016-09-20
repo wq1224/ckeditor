@@ -26,6 +26,18 @@
 			/ckfinder/core/connector/java/connector.java
 		</url-pattern>
 	</servlet-mapping>
+
+    <!--<servlet>
+        <servlet-name>MathServlet</servlet-name>
+        <servlet-class>com.test.MathServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MathServlet</servlet-name>
+        <url-pattern>
+            math.do
+        </url-pattern>
+    </servlet-mapping>-->
+
 	<session-config>
 		<session-timeout>10</session-timeout>
 	</session-config>
